@@ -8,7 +8,7 @@
 * 47007 - Josue Micael, Herrera --> josueherrera790@gmail.com
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/euge516/front.git)
 * [backend app](https://github.com/euge516/back-end.git)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
