@@ -14,7 +14,7 @@
 
 ## Tema: Systema de gestion de producto(E-commerce)
 ### Descripción:"El sistema va a permitir al cliente de realizar su compra online, y ver su historial de compra y sumar punto para que puede canjearlo en un futuro. Y para el dueno le va a permitir de gestion sus productos mejor, ver los productos mas vendido etc."
-*2 a 6 líneas describiendo el negocio (menos es más)*
+
 
 ### Modelo
 ![imagen del modelo]()
