@@ -9,7 +9,7 @@
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [backend app](https://github.com/euge516/back-end.git)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema: Systema de gestion de producto(E-commerce)
